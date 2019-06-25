@@ -229,10 +229,8 @@
 
 
          <div class="intro-info">
-
-           <img src="images/pramodPaul.jpg" alt="Profile Picture">
            
-           <p class="lead"> Capstone project: Anomaly detection/prediction enhanced by Natural language processing (NLP) techniques</p>
+           <p class="lead"> Title: Anomaly detection/prediction enhanced by Natural language processing (NLP) techniques</p>
 
            <p class="lead">Problem: 1) In the financial domain, anomaly detection solutions are
               not able to use all the text data that was available for the customers like emails,
