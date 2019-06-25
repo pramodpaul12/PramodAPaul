@@ -54,8 +54,7 @@
                         <li><a class="smoothscroll"  href="#CapStone_Project" title="">CapStone Project</a></li>
                         <li><a class="smoothscroll"  href="#Articles" title="">Articles</a></li>
 						<li><a class="smoothscroll"  href="#Work" title="">Work Experience</a></li>
-						<li><a class="smoothscroll"  href="#MORE" title="">MORE</a></li>
-
+						<li><a class="smoothscroll"  href="#More" title="">More</a></li>
 					</ul>
 				</nav>
    		</div> <!-- /top-bar -->
@@ -203,7 +202,7 @@
 				   	<strong>DATA ANALYSIS</strong>
 				   </li>
 				   <li>
-				   	<div class="progress percent75"><span>75%</span></div>
+				   	<div class="progress percent75"><span>85%</span></div>
 				   	<strong>DATA CLEANING</strong>
 				   </li>
 				   <li>
@@ -232,6 +231,8 @@
          <div class="intro-info">
 
            <img src="images/pramodPaul.jpg" alt="Profile Picture">
+           
+           <p class="lead"> Capstone project: Anomaly detection/prediction enhanced by Natural language processing (NLP) techniques</p>
 
            <p class="lead">Problem: 1) In the financial domain, anomaly detection solutions are
               not able to use all the text data that was available for the customers like emails,
@@ -253,7 +254,8 @@
 
    	<div class="row button-section">
    		<div class="col-twelve">
-   			<a href="#contact" title="Hire Me" class="button stroke smoothscroll">Hire me</a>
+   			<a href="https://github.com/pramodpaul12/" target="_blank"title="GitHub Portfolio" class="button button-primary">GitHub Portfolio</a>
+   			<a href="https://github.com/pramodpaul12/Portfolio/blob/master/Anomaly%20Detection%20Capstone%20Project%20/presentation%20slides/Anomaly_detection_Capstone_Presentation_pramod_paul_Business_v11_25June_2019.pptx" target="_blank" title="Download Capstone Slides" class="button button-primary">Download Capstone Slides</a>
    			<a href="https://github.com/pramodpaul12/PramodAPaul.github.io/raw/master/images/Resume_Pramod_Paul.pdf" target="_blank" title="Download CV" class="button button-primary">Download Resume</a>
    		</div>
    	</div>
@@ -283,21 +285,42 @@
 	   				</div>
 
 	   				<div class="timeline-header">
-	   					<h3>COMUS | France - Déploiement réseau – 2015</h3>
-	   					<p>Déploiement et mise en service des équipements radio et
-transmission du réseau Bouygues Télécom en Ile-deFrance.
+	   					<h3>Latitude Financial Services | Business Analyst |Data Analyst | Project Lead|  Sept 16 – Oct 18</h3>
+	   					<p>As Release analyst for Data & Digital transformation projects.
+•	Capture requirements working with collections, fraud, credit and risk teams for all products & oversee client interaction and engagement for proper clarification.
+•	Analyzed business processes: Sales, Personal loans, credit cards, auto loans, collections, fraud, credit and risk. 
+•	Analyzed data by querying using SQL statements & ETL.
+•	Set up  daily/weekly/monthly reports for various teams using Microsoft BI & Tableau.
+•	Prepared reports for the Sales and marketing team for campaigns
+•	Manage software releases for all data related projects.
+•	Once dry run is certified, lead the deployment in production environment.
+
+</p>
+
+<p>	As Business Analyst |BI/Data Analyst for PCI- DSS (Payment Card industry- Data Security Standards) 
+•	 Analyzed data for credit card data compliance for all business processes. (Personal loans, credit cards, auto loans, collections, fraud, credit and risk). Analyzed data by  querying using SQL statements. Prepared reports using Microsoft BI &  Tableau. Worked with  Collections, fraud, Credit and risk teams for all products.
+
+</p>
+
+<p>	As Business Analyst |Project lead for Active Directory Migration project
+•	Defined business objectives & requirements.
+•	Analyzed Business processes- Collections, fraud, personal loans, credit cards, auto loans. Complex project involving 800 servers, 100 applications, out of which 57 applications are critical.
+•	Successfully migrated 800 servers from GE domain to Latitude domain with minimum business impact
+•	Involving migration of 500 TB of data. Major part of technical team was offshore.
+•	High risk and highly visible as project was integral part of GE exit requirement..
+•	Technologies: SQL, SQL server, Power BI, SSRS, Tableau, Jira, confluence, API, AWS, Git-hub, Swagger, Service Now, Windows, Linux, Unix, Azure, Citrix,F5
+
 </p>
 	   				</div>
 
 	   				<div class="timeline-content">
-	   					<h4>Al Furat Petroleum Company | Syrie - Ingénieur Télécom –
-2010 / 2013</h4>
-	   					<p>Déploiement et mise en service des équipements radio et
-transmission (Sagem)
-§ Configuration de routeurs Cisco .</p>
+	   					
 	   				</div>
-
+	   				
 	   			</div> <!-- /timeline-block -->
+	   			
+	   			
+	   			 </div> <!-- /timeline-block -->
 
 	   			<div class="timeline-block">
 
@@ -306,16 +329,78 @@ transmission (Sagem)
 	   				</div>
 
 	   				<div class="timeline-header">
-	   					<h3>Intracom | Syrie – Gestionnaire d e s i t e d e
-télécommunications 2008 / 2010</h3>
-	   					<p>Déploiement du projet de réseau point-à-multipont</p>
+	   					<h3>Grey Ocean Analytics | Data Analyst |Delivery Lead | Sept 14 – May 16</h3>
+	   					<p>•Data analysis, manipulation and investigation to provide meaningful insights.
+•	Analyzed processes: Sales, Procurement, Wellbeing, Team Performance. 
+•	Set up daily/weekly and monthly reports for customer.
+•	Query done using SQL statements. 
+•	Used linear regression, logistic regression & recommendation engine machine learning models.
+•	Design, software build, test and deploy onto linode and AWS (Amazon Web Services) virtual servers of the following SAAS (Software As A Service) products: a) DEW employee well-being software b) Recommendation engine with virtual assistant- Artificial intelligence algorithms	
+•	Agile Methodology (Scrum Model). Facilitated the offshore development team by important roles as data analyst, business analyst & product Owner
+•	Technologies: Drupal, SQL Server, Microsoft BI, SSRS, MySQL, Python, Neo4j, AWS, linode and machine learning algorithmse now. 
+</p>
 	   				</div>
 
 
 
 	   			</div> <!-- /timeline-block -->
+	   		
+	   			<div class="timeline-block">
+
+	   				<div class="timeline-ico">
+	   					<i class="fa fa-graduation-cap"></i>
+	   				</div>
+
+	   				<div class="timeline-header">
+	   					<h3>DXC technology |General Motors| Data Engineer| Aug 03 – Jan 05</h3>
+	   					<p>•As vehicle data engineer for General Motors Vehicle data modelling & simulation team.
+•Created and maintained vehicle simulation models & simulators involving data for various General Motors cars & trucks. Technologies:  C/C++/Mat-lab/Simulink.
+</p>
+	   				</div>
 
 
+
+	   			</div> <!-- /timeline-block -->
+	   			
+	   			<div class="timeline-block">
+
+	   				<div class="timeline-ico">
+	   					<i class="fa fa-graduation-cap"></i>
+	   				</div>
+
+	   				   <div class="timeline-header">
+	   					  <h3>Unisys | Project lead| Tech Delivery lead| Customer facing| Nov 09 – Apr 14</h3>
+	   					       <p>•	California State University Account (Government higher education university with 23 campuses, 412,000 students and 43000 government employees) 
+                                  •Functioned as Tech Delivery lead and Project lead  for the account.
+                                  •Member of the core account team reporting to service delivery manager & account director. Managed technical & service delivery of applications and cloud/physical environment of windows, UNIX and Linux servers and networks. 
+                                  •Operational governance: Managed operations based on the ITIL framework and achieving (customer satisfaction ratings) CSATs of 10/10. Incident, problem & change management processes were followed.  Risks were managed using best practices in the industry.  Quality assurance was implemented and ownership of each product/service/module/part was clearly defined and owned by respective team members.
+                                  •Technologies: Oracle BI- OBIEE, Microsoft BI, SQL Server, Tableau, Vm-ware, Citrix, Oracle database, Unix, Linux, telephony, windows server and windows desktop, Service now. 
+
+                                </p>
+	   				  </div>
+
+	   			
+	   			</div> <!-- /timeline-block -->
+
+	   			<div class="timeline-block">
+
+	   				<div class="timeline-ico">
+	   					<i class="fa fa-graduation-cap"></i>
+	   				</div>
+
+	   				   <div class="timeline-header">
+	   					  <h3>DXC technology |Royal Bank of Scotland |Business Analyst | Jan 05 – Jan 07</h3>
+	   					       <p>•As Business analyst for  migration, production support and maint for 16 financial applications involving personal loans, collections, fraud, risk and credit cards, home loans & auto loans.  
+                                  •Query done using SQL statements from SQL Server and Oracle DB servers.
+                                  •Technologies: Power BI, Microsoft Client Server tools (SQL server), Oracle, Informatica, ETL, dotnet
+                                </p>
+	   				  </div>
+
+
+
+	   			 </div> <!-- /timeline-block -->
+	   			 
+	    			
    			</div> <!-- /timeline-wrap -->
 
    		</div> <!-- /col-twelve -->
@@ -326,7 +411,7 @@ télécommunications 2008 / 2010</h3>
 
    		<div class="col-twelve resume-header">
 
-   			<h2>FORMATION ET DIPLOMES</h2>
+   			<h2>EDUCATION</h2>
 
    		</div> <!-- /resume-header -->
 
@@ -341,18 +426,21 @@ télécommunications 2008 / 2010</h3>
 	   				</div>
 
 	   				<div class="timeline-header">
-	   					<h3>Simplon.co – Montreuil </h3>
-	   					<p>2016 (7 mois)- Present</p>
+	   					<h3>General Assembly Data Science Immersive course  | Mar 19 – June 19 </h3>
+	   					<p></p>
 	   				</div>
 
 	   				<div class="timeline-content">
 
-	   					<p>Formation intensive au développement Web (HTML, CSS,
-JS, PHP, Symfony)
-> Animation d’ateliers d’initiation à la programmation à
-destination des enfants et des adultes (Minecraft, Code
-n’Slash, Scratch)
-> Participation au Hackathons # RATP.</p>
+	   					<p> SKILLS: •Programming skills: SQL, Python, Html, CSS, Java script
+•	Tools: Microsoft Power BI, Oracle BI OBIEE, Informatica, Excel, ETL
+•	Languages: Python (scikit learn, pandas, statsmodels), bash
+•	Visualization: Seaborn, Matplotlib, Tableau
+•	Database Management: SQLite, MySQL, PostgreSQL, SQL Server, Access
+•	Big Data: AWS, Spark
+•	Supervised / Unsupervised Machine Learning: Regularization with Lasso, Ridge, ElasticNet, Linear/Logistic Regression, kNN, Decision Trees, Bagging/Boosting Models, Model evaluation with ROC curve, cross-validation, bootstrapping, grid-search,DBScan
+•	NLP - Natural Language Processing: ELMo, Doc2VecWord2vec, Sent2Vec, Exponential family word embeddings, Tf-idf
+</p>
 	   				</div>
 
 	   			</div> <!-- /timeline-block -->
@@ -364,17 +452,33 @@ n’Slash, Scratch)
 	   				</div>
 
 	   				<div class="timeline-header">
-	   					<h3>Microsoft Certified – Microsoft Certified IT Professional
-(MCITP) </h3>
-	   					<p>Syrie | 2013</p>
+	   					<h3>Coursera IBM Data science professional certificate course  Nov 18 – June 19</h3>
+	   					<p></p>
 	   				</div>
 
 	   				<div class="timeline-content">
-	   					<p>Certification Cisco Microsoft : administrateur de bases de
-données .</p>
+	   					<p></p>
 	   				</div>
 
 	   			</div> <!-- /timeline-block -->
+	   			
+	   			<div class="timeline-block">
+
+	   				<div class="timeline-ico">
+	   					<i class="fa fa-briefcase"></i>
+	   				</div>
+
+	   				<div class="timeline-header">
+	   					<h3>MBA- Information Systems</h3>
+	   					<p></p>
+	   				</div>
+
+	   				<div class="timeline-content">
+	   					<p></p>
+	   				</div>
+
+	   			</div> <!-- /timeline-block -->
+	   				   			
 
 	   			<div class="timeline-block">
 
@@ -383,14 +487,14 @@ données .</p>
 	   				</div>
 
 	   				<div class="timeline-header">
-	   					<h3>Université de Damas - Diplôme d’ingénieur</h3>
-	   					<p>Syrie | 2008</p>
+	   					<h3>Executive education: MIT Sloan Institute of Management, Neuroscience for leadership</h3>
+	   					<h3>Bachelor of Technology: Electrical & Electronics Engineering</h3>
+	   					<p></p>
 	   				</div>
 
 	   				<div class="timeline-content">
 
-	   					<p>Ingénieur Génie Electrique, option: génie électrique et de
-communication.</p>
+	   					<p></p>
 	   				</div>
 	   				<div class="timeline-block">
 
@@ -399,15 +503,14 @@ communication.</p>
 	   				</div>
 
 	   				<div class="timeline-header">
-	   					<h3>Cisco Courses – Cisco Certified Network Associate Level
-(CCNA) New Horizon</h3>
-	   					<p>Syrie | 2007</p>
+	   					<h3>Professional Scrum Master </h3>
+	   					<h3>Certified PEGA Business Architect </h3>
+	   					<p></p>
 	   				</div>
 
 	   				<div class="timeline-content">
 
-	   					<p>Certification Cisco CCNA Routing and Switching :
-technicien réseau .</p>
+	   					<p></p>
 	   				</div>
 
 	   			</div> <!-- /timeline-block -->
@@ -437,10 +540,7 @@ technicien réseau .</p>
    
    
    
-   
-   
-   
-   
+    
    
 
 	<!-- CTA Section
@@ -474,10 +574,10 @@ technicien réseau .</p>
 
 	            <div class="service-content">
 
-	            	<h3>SYSTEMES ET BASE DE DONNEES</h3>
+	            	<h3>SYSTEMS</h3>
 
 		            <p class="desc"># Windows # Ubuntu
-# MySQL </br># Firebase.
+# AWS </br>#AZURE
 	        			</p>
 
 	            </div>
@@ -516,7 +616,7 @@ technicien réseau .</p>
 
 	            	 <h3>Personality</h3>
 
-		            <p class="desc"> Personality : # hardworking # dynamic # organised
+		            <p class="desc">  # hardworking # dynamic # organised
 # innovative # outgoing.
 	         		</p>
 
@@ -559,7 +659,7 @@ randonnée.
    		<div class="col-twelve">
 
    			<h5>Contact</h5>
-   			<h1>Please contact me.</h1>
+   			<h1></h1>
 
 
 
@@ -654,17 +754,7 @@ randonnée.
    ================================================== -->
 
    <footer>
-   
-   <div class="row">
-        <div class="col-six tab-full pull-right social">
-
-             			<ul class="footer-social">
-        			     <li><a target="_blank"href="https://github.com/pramodpaul12"><i class="fa fa-github" aria-hidden="true"></i>
-</a></li>
-        			   </ul>
-
-        	      </div>
-
+ 
 	      	<div id="go-top">
 		         <a class="smoothscroll" title="Back to Top" href="#top"><i class="fa fa-long-arrow-up"></i></a>
 		      </div>
